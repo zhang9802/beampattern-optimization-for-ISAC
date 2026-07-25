@@ -1,4 +1,4 @@
-# CVX Beampattern Design for a ULA
+# CVX Beampattern Design for ISAC via CVX
 
 This project contains MATLAB/CVX examples for transmit beampattern design with a 10-element uniform linear array (ULA).  The scripts formulate convex optimization problems that fit a desired angular power pattern, and include an iterative relaxation intended to recover a constant-modulus beamforming matrix.
 
